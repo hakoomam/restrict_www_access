@@ -1,0 +1,2 @@
+include README.md
+recursive-include restrict_www_access *.py
